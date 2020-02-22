@@ -1,0 +1,23 @@
+{
+  "name": "weather-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "parcel index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/finye/weather-app.git"
+  },
+  "author": "finye",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/finye/weather-app/issues"
+  },
+  "homepage": "https://github.com/finye/weather-app#readme",
+  "dependencies": {
+    "config": "^3.2.6",
+    "parcel": "^1.12.4"
+  }
+}

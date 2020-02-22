@@ -17,7 +17,6 @@
   },
   "homepage": "https://github.com/finye/weather-app#readme",
   "dependencies": {
-    "config": "^3.2.6",
     "parcel": "^1.12.4"
   }
 }
